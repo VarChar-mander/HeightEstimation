@@ -1,0 +1,10 @@
+C:\Users\varun\source\repos\HeightEstimation\bin\Debug\HeightEstimation.exe.config
+C:\Users\varun\source\repos\HeightEstimation\bin\Debug\HeightEstimation.exe
+C:\Users\varun\source\repos\HeightEstimation\bin\Debug\HeightEstimation.pdb
+C:\Users\varun\source\repos\HeightEstimation\obj\Debug\HeightEstimation.csprojAssemblyReference.cache
+C:\Users\varun\source\repos\HeightEstimation\obj\Debug\HeightEstimation.Form1.resources
+C:\Users\varun\source\repos\HeightEstimation\obj\Debug\HeightEstimation.Properties.Resources.resources
+C:\Users\varun\source\repos\HeightEstimation\obj\Debug\HeightEstimation.csproj.GenerateResource.cache
+C:\Users\varun\source\repos\HeightEstimation\obj\Debug\HeightEstimation.csproj.CoreCompileInputs.cache
+C:\Users\varun\source\repos\HeightEstimation\obj\Debug\HeightEstimation.exe
+C:\Users\varun\source\repos\HeightEstimation\obj\Debug\HeightEstimation.pdb
